@@ -2,4 +2,4 @@ FROM redis
 
 USER root
 
-RUN whoami
+RUN echo `whoami` >&1

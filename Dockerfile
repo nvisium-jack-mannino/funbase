@@ -1,2 +1,3 @@
 FROM redis
 
+USER root

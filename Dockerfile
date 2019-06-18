@@ -1,2 +1,2 @@
-FROM alpine
+FROM redis
 
